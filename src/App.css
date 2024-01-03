@@ -1,0 +1,20 @@
+
+.drop-zone {
+  border: 2px dashed #cccccc;
+  border-radius: 4px;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.pixel {
+  box-sizing: border-box;
+  border-radius: 2px;
+}
+
+.pixel-art-display {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
